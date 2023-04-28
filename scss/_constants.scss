@@ -1,0 +1,19 @@
+$comfortaa: 'Comfortaa', cursive;
+$inter: 'Inter', sans-serif;
+
+$dark: #262C27;
+$blue: #0093A1;
+$yellow: #B9C400;
+
+body {
+    font-family: $inter;
+}
+
+.popup-btn {
+    position: absolute;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+}
